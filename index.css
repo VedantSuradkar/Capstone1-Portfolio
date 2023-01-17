@@ -17,3 +17,10 @@ a{
 body {
   font-family: "Audiowide", sans-serif;
 }
+.footer {
+  position:static;
+  left: 0;
+  bottom: 0;
+  
+  
+}
