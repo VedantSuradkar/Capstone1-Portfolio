@@ -1,0 +1,16 @@
+
+#main_body{
+	background-color: lightcyan;
+
+}
+.bottom{
+	height: auto;
+}
+ul{
+ list-style-type: none;
+ color: white;
+}
+a{
+	color: white;
+
+}
